@@ -1,2 +1,3 @@
 # JDBC-Pro
-It is the continuity of Java-Pro-JSE repo 
+It also includes database to excel and vice Versa data transfer
+
